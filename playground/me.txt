@@ -1,0 +1,6 @@
+{{#user}}
+Name: Prathibha Bharathi
+Skills: HTML, CSS, Js,python,php,mysql,aws,devops,codeigniter
+Email: prabsd03@gmail.com
+{{/user}}
+
